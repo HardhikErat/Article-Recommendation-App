@@ -1,1 +1,2 @@
-# Article-Recommendation-App
+# Blog-App
+React native blog app
